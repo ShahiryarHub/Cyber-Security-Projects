@@ -1,2 +1,2 @@
 # Password Strength Checker
-This repository contains various cybersecurity projects, including penetration testing, encryption algorithms, network security analysis, and threat detection. Ideal for learning and implementing security techniques to protect systems from cyber threats. 🚀🔍
+A simple yet effective password strength checker that evaluates password security based on length, complexity, and common patterns. Built with Python, it provides real-time feedback and suggestions to improve password strength. 🚀🔐
